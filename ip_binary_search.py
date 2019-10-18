@@ -2,8 +2,8 @@ import json
 import time
 from models.Networks import Network
 
-NETWORK_FILE = r"C:\Dev\PycharmProjects\IPLookUp\data\grx_lookup.json"
-IP_FILE = r"C:\Dev\PycharmProjects\IPLookUp\data\ips.txt"
+NETWORK_FILE = r"C:\PycharmProjects\IPLookUp\data\lookup.json"
+IP_FILE = r"C:\PycharmProjects\IPLookUp\data\ips.txt"
 
 
 if __name__ == "__main__":
